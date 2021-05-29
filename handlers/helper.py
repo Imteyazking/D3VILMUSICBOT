@@ -25,9 +25,9 @@ async def helper(ok, message: Message):
 
 /resume ▶️To continue The song
 
-        💝❤️🧡💛💚💙💜🤎🖤❤️
-        🤍 @D3VIL_SUPPORT 🤍
-        💝❤️🧡💛💚💙💜🤎🖤❤️""")
+        💥✨💥♥️💝💖💖💗💖
+        🤍 @Imteyaz_king 🤍
+        ♥️💖💥✨💥💖💖💗🤎""")
 
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
