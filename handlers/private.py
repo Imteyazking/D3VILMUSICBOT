@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/D3KRISH/D3VILMUSICBOT")
+                        "🛠 Source Code 🛠", url="https://git.heroku.com/imteyazvc.git")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "⚔️ ɕꝍꬼȶᶏɕȶ OwNeRȶꝍ ꝍⱳꬼꬴꭉ⚔️", url="https://t.me/Imteyaz_king"
+                        "💗OwNeR💥", url="https://t.me/Imteyaz_king"
                     )]
             ]
         ),
