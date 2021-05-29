@@ -27,8 +27,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🔊 Channel",
-                        url="https://t.me/D3VIL_SUPPORT")
+                        text="💥 CREATOR ✨",
+                        url="https://t.me/Imteyaz_king")
                    
                 ]
             ]
@@ -59,7 +59,7 @@ async def play(_, message: Message):
     else:
         callsmusic.pytgcalls.join_group_call(message.chat.id, file_path)
         await message.reply_photo(
-        photo="https://telegra.ph/file/e76cb98b106eec5801d87.jpg",
+        photo="https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg",
         reply_markup=keyboard,
         caption="▶️ **Playing** here the song requested by {}!".format(
         message.from_user.mention()
