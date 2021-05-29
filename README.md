@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 ɖ3ⱱᶖȴ ꬺᶙȿᶖɕɓꝍȶ  🎶</h1>
+<h1 align="centre">🎶 Imteyaz Vc Music ⚡  🎶</h1>
 
 [![ImteyazVc_Bot LOGO](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://t.me/Imteyaz_info)
 
