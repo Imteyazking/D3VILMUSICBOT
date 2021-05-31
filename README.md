@@ -1,6 +1,6 @@
-<h1 align="centre">🎶 ɖ3ⱱᶖȴ ꬺᶙȿᶖɕɓꝍȶ  🎶</h1>
+<h1 align="centre">🎶 Tannu Imteyaz music Bot 🎶</h1>
 
-[![D3VILMUSICBOT LOGO](https://telegra.ph/file/e441ee749e930d4f99a6d.jpg)](https://t.me/D3VIL_BOT_SUPPORT)
+[![Tannu Music LOGO](https://telegra.ph/file/8c22c038065667062da73.jpg)](https://t.me/ImteyazBotsupport)
 
 ## Requirements 📝
 
@@ -31,9 +31,9 @@ Get STRING_NAME from here:
 
   <summary> • CREDITS👀 • </summary>
 
-- [KRISH](https://github.com/D3KRISH): main developer
+- [Imteyaz](https://github.com/Imteyazking): main developer
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Shinchan](https://t.me/Shinchan7222)
-- [Mafia support](https://t.me/MafiaBot_Support)
+- [Shinchan](https://t.me/Imteyaz_support)
+- [Mafia support](https://t.me/Imteyaz_support)
 <\details>
