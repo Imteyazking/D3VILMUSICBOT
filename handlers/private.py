@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "💗OwNeR💥", url="https://t.me/Imteyaz_king"
+                        "𝙊𝙧𝙞𝙜𝙞𝙣𝙖𝙡 𝙘𝙧𝙚𝙖𝙩𝙤𝙧", url="https://t.me/Imteyaz_king"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "♥️CREATOR✨", url="https://t.me/Imteyaz_king")
+                        "✨𝑪𝒓𝒆𝒂𝒕𝒐𝒓✨", url="https://t.me/Imteyaz_king")
                 ]
             ]
         )
