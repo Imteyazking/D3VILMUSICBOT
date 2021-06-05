@@ -1,9 +1,9 @@
 {
   "name": "Tannu_Imteyaz_Bot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @D3_krish.",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @Imteyaz_king.",
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/Imteyazking/D3VILMUSICBOT",
-  "repository": "https://github.com/Imteyazking/D3VILMUSICBOT",
+  "repository": "https://github.com/Imteyazking/Tannu_Imteyaz_Bot",
   "logo": "https://telegra.ph/file/be79fba431a9f65b19150.jpg",
   "stack": "container",
   "env": {
