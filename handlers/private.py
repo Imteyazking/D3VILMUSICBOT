@@ -25,7 +25,7 @@ Add me to your group and play music freely!**
                         "💬 Group", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
                     ),
                     InlineKeyboardButton(
-                        "♥️ INFORMATION", url="https://t.me/Imteyaz_info"
+                        "♥️ HELP", url="https://telegra.ph/KING-FIGHTER--VC-MUSIC-06-21-2"
                     )
                 ],[ 
                     InlineKeyboardButton(
