@@ -1,6 +1,6 @@
 <h1 align="centre">🎶 KING FIGHTER MUSIC BOT ⚡  🎶</h1>
 
-[![ImteyazVc_Bot LOGO](https://telegra.ph/file/8c22c038065667062da73.jpg)](https://t.me/Imteyaz_support)
+[![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/13bbfdcce213351cb61a0.jpg)](https://t.me/Imteyaz_support)
 
 ## Requirements 📝
 
