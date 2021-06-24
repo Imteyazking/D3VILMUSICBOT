@@ -22,7 +22,7 @@ Add me to your group and play music freely!**
                         "🛠 Source Code 🛠", url="https://github.com/Imteyazking/D3VILMUSICBOT")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
+                        "💬 Group", url="https://t.me/love_talks_fam"
                     ),
                     InlineKeyboardButton(
                         "♥️ HELP", url="https://telegra.ph/KING-FIGHTER--VC-MUSIC-06-21-2"
