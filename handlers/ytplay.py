@@ -61,7 +61,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Watch On YouTube 🎬",
+                        text="SUPPORT GROUP",
                         url=f"{url}")
                    
                 ]
