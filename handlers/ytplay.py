@@ -61,7 +61,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="SUPPORT GROUP",
+                        text="LOVE Talks",
                         url="https://t.me/love_talks_fam",
                    
                 ]
@@ -72,8 +72,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Watch On YouTube 🎬",
-                        url=f"{url}")
+                        text="LOVE Talks",
+                        url="https://t.me/love_talks_fam",
                    
                 ]
             ]
