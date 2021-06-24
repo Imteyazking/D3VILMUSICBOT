@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Imteyaz Vc Music ⚡  🎶</h1>
+<h1 align="centre">🎶 KING FIGHTER MUSIC BOT ⚡  🎶</h1>
 
 [![ImteyazVc_Bot LOGO](https://telegra.ph/file/8c22c038065667062da73.jpg)](https://t.me/Imteyaz_support)
 
